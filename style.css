@@ -1,0 +1,35 @@
+.abc{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: darkgoldenrod;
+    font-family: fantasy;
+}
+h1{
+    font-style: inherit;
+    font-weight: 200;
+}
+h4{
+    color: blue;
+    font-weight: 200;
+    font-family: sans-serif;
+}
+#camera{
+    background-color: antiquewhite;
+    border-color: black;
+}
+
+img{
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+img.hover{
+    height: 200px;
+    width: 300px;
+}
+
